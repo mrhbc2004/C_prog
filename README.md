@@ -21,14 +21,15 @@ Contains the code for basic, intermediate, advanced and challenge level question
 7. Check if a string is a palindrome.
 8. Find the longest word in a sentence
 
-## Advance LevelImplement a function to reverse a string using pointers.
-1. Write a program to sort an array using pointers.
-2. Implement a matrix multiplication program.
-3. Transpose a matrix in place.
-4. Writ a program to dynamically allocate memory for an array using malloc and find its average.
-5. Implement a program to merge two sorted arrays into one sorted array.
-6. Implement a stack using arrays.
-7. Implement a queue using arrays
+## Advance Level
+1.Implement a function to reverse a string using pointers.
+2. Write a program to sort an array using pointers.
+3. Implement a matrix multiplication program.
+4. Transpose a matrix in place.
+5. Writ a program to dynamically allocate memory for an array using malloc and find its average.
+6. Implement a program to merge two sorted arrays into one sorted array.
+7. Implement a stack using arrays.
+8. Implement a queue using arrays
 
 ## Challenge Level
 1. Define a structure for student details (name,roll, marks) and sort students by marks
