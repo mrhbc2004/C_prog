@@ -22,7 +22,7 @@ Contains the code for basic, intermediate, advanced and challenge level question
 8. Find the longest word in a sentence
 
 ## Advance Level
-1.Implement a function to reverse a string using pointers.
+1. Implement a function to reverse a string using pointers.
 2. Write a program to sort an array using pointers.
 3. Implement a matrix multiplication program.
 4. Transpose a matrix in place.
