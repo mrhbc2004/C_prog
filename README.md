@@ -1,4 +1,4 @@
-# Cprog_logic
+# C_prog (Logic Building Exercise)
 Contains the code for basic, intermediate, advanced and challenge level questions 
 
 ## Basic Level:
