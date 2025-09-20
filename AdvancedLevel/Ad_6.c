@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void mergearrays(int arr1[], int n1, int arr2[], int n2, int merged[])
 {
     int i = 0, j = 0, k = 0;
@@ -29,11 +28,13 @@ int main()
     printf("Enter the number of elements in two arrays:");
     scanf("%d%d", &n1, &n2);
     int arr1[n1], arr2[n2], merged[n1 + n2];
+    printf("Elements of first array (only sorted order)\n");
     for (int i = 0; i < n1; i++)
     {
         printf("Enter the %d element:", i + 1);
         scanf("%d", &arr1[i]);
     }
+    printf("Elements of second array (only sorted order)\n");
     for (int j = 0; j < n2; j++)
     {
         printf("Enter the %d element:", j + 1);
