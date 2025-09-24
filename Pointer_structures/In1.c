@@ -19,5 +19,7 @@ int main(){
     for(int i=0;i<n;i++){
         printf("%d\t",*(ptr+i));
     }
+    free(ptr);
+    ptr=NULL;
     return 0;
 }
