@@ -1,3 +1,9 @@
+/*
+This question was given in Renesas Online assessment 
+the question needs an input like any number 123 and array of combinations (consecutive) numbers are generated and 
+checked which all numbers are prime and are printed
+
+*/
 #include<stdio.h>
 #include<math.h>
 
