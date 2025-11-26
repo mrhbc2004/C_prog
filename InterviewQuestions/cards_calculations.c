@@ -1,3 +1,13 @@
+/* This question was asked in Renesas Online assessment 
+there will be a string of characters given with space separated like 2 3 4 5 6 7 8 9 10 A J Q K
+for which there will be a number assigned like +1,-1,0
+2 to 6-> +1
+7 to 9-> 0
+10-> -1
+A,J,Q,K-> -1
+
+*/
+
 #include<stdio.h>
 int cal(char *s){
     int count=-1;
